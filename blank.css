@@ -1,0 +1,24 @@
+body {
+  /* 브라우저마다 기본 설정으로 BODY 요소에 margin과 padding의 값이 설정되어 있습니다. */
+  /* 각각의 브라우저마다 BODY 요소가 다른 값을 가지고 있을 수 있으므로 우리가 일정하게 초기화해서 사용합니다. */
+  /* 0은 단위를 사용하지 않습니다. */
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.p2{
+  background-color: red;
+}
+
+.p3{
+  
+
+  background-color: green;
+}
+
+div{
+  text-align: left;
+  background-color: yellow;
+
+}
